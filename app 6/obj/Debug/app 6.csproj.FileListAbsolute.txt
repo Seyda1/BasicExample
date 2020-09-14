@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\app 6\app 6\bin\Debug\app 6.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\app 6\app 6\bin\Debug\app 6.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\app 6\app 6\bin\Debug\app 6.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\app 6\app 6\obj\Debug\app 6.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\app 6\app 6\obj\Debug\app 6.pdb
